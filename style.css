@@ -1,0 +1,228 @@
+body {
+ background-color: #4ac4eb;
+ color: white;
+ margin: 0px;
+}
+
+.upr-left {
+ padding: 100px 0px 90px 100px;
+ box-sizing: border-box;
+
+}
+
+.title {
+ text-align: center;
+ Font-size: 50px;
+ background-color: #4aa3eb;
+ width: 500px;
+ height: 80px;
+ font-weight: bold;
+ font-family: 'Fredoka One', cursive;
+}
+
+.subtitle {
+ padding-top: 10px;
+ margin-left: 105px;
+ font-family: 'Fredoka One', cursive
+}
+
+.subtitle p {
+ margin: 2px;
+ padding-left: 24px;
+ font-family: 'Fredoka One', cursive
+}
+
+.cloud1 {
+ background-image: url("cloud.png");
+ padding: 10px;
+ background-repeat: no-repeat;
+ width: 612px;
+ height: 250px;
+ margin-top: -480px;
+ margin-left: -390px;
+}
+
+.cloud2 {
+ background-image: url("cloud.png");
+ padding: 10px;
+ background-repeat: no-repeat;
+ width: 612px;
+ height: 180px;
+ margin-top: 10px;
+ margin-left: 250px;
+}
+
+.image {
+ background-image: url("pepeng.jpg");
+ width: 94.7vh;
+ height: 331px;
+ margin-top: -331px;
+ margin-left: 727px;
+}
+
+.footer1 {
+ width: 205.4vh;
+ height: 2em;
+ background-color: #7ed957;
+}
+
+.Part1 {
+ margin: 20px 0px 0px 50px;
+ width: 580px;
+ height: 330px;
+ background-color: #23abfa;
+ font-family: 'Gaegu', cursive;
+ padding: 5px 6px 40px 30px;
+ font-size: 20px;
+ border-radius: 25px;
+}
+
+.line1 {
+ margin: -10px -10px 10px -30px;
+ border: 1px solid white;
+}
+
+.line2 {
+ background-color: white;
+ height: 338px;
+ width: 2px;
+ margin-left: 664px;
+ margin-top: -22.2em;
+}
+
+.Part2 {
+ font-size: 17px;
+ font-family: 'Gaegu', cursive;
+ background-color: #23abfa;
+ padding: 10px 30px 30px 30px;
+ width: 92.5vh;
+ height: 103vh;
+ margin: -358px 0px 0px 666px;
+ border-radius: 25px;
+}
+
+.solution1 {
+ background-color: #3b93bf;
+ width: 93vh;
+ height: 60vh;
+ margin: -2.8em 0px 30px 50px;
+ border-radius: 25px;
+}
+
+.title2 {
+ font-size: 20px;
+ font-family: 'Gaegu', cursive;
+ margin: -15.5em 0px 0px 11em;
+}
+
+.line6 {
+ height: 2px;
+ width: 93vh;
+ background-color: white;
+ position: absolute;
+ margin: 10px 0px 20px 50px;
+}
+
+.solution2 {
+ margin: -22em 0px 20px 120px;
+ padding: 30px;
+}
+
+.bda {
+ background-color: #2d5d9d;
+ padding: 20px 0px 20px 20px;
+ border-radius: 25px;
+ font-family: 'Gaegu', cursive;
+ margin-top: 60px;
+}
+
+.heading {
+ padding-bottom: 20px;
+ text-align: center;
+}
+
+.b {
+ width: 25em;
+}
+
+.d {
+ margin: -19.8em 0px 0px 430px;
+ width: 25em;
+}
+
+.a {
+ width: 25em; 
+  margin: -19.8em 0px 0px 880px;
+}
+
+.line3 {
+ height: 2px;
+ width: 200vh;
+ background-color: white;
+ margin: -10px 0px 10px 0px;
+}
+
+.line4 {
+ width: 2px;
+ height: 50vh;
+ background-color: white;
+ margin: -334px 0px 0px 25em;
+}
+
+.line5 {
+ width: 2px;
+ height: 50vh;
+ background-color: white;
+ margin: -264px 0px 0px 53em;
+}
+
+.footer2 {
+ background-color: #7ed957;
+ width: 205.4vh;
+ height: 2em;
+ margin-top: 20px;
+}
+
+.sources {
+ background-color: #455974;
+ width: 205.4vh;
+ height: 35em;
+}
+
+.sauces {
+ padding: 20px 20px 20px 20px;
+ font-size: 40px;
+ background-color: #252e3b;
+ width: 23vh;
+ height: 55px;
+ border-radius: 25px;
+ margin: 0px 0px 0px 20px;
+ font-family: 'Fredoka One', cursive;
+ font-weight: bold;
+}
+
+a:link {
+ color: white;
+}
+
+a:active {
+ color: white;
+}
+
+a:visited {
+ color: white;
+}
+
+a:hover {
+ color: grey;
+}
+
+.links {
+ padding: 20px;
+ font-family: 'Fredoka One', cursive;
+ font-weight: bold;
+}
+
+.logo {
+ margin: -34em 0px 0px 170vh;
+}
